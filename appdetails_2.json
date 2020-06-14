@@ -2,9 +2,9 @@
   "ads":"true",
   "update":[{
     "version":"2.0",
-    "title":"This app is now For Amirhoseen",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "title":"Buzz VPN",
+    "description":"Fast & Sercure & Free Unlimited VPN Service",
+    "size":"Size: 7.3 MB"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
